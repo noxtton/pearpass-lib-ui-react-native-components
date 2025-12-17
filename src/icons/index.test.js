@@ -1,8 +1,6 @@
 import fs from 'fs'
 import path from 'path'
 
-import React from 'react'
-
 import { render } from '@testing-library/react-native'
 
 const iconsDir = path.join(__dirname, '../icons')
